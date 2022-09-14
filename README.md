@@ -7,6 +7,6 @@
     <h3 align="center">Passionate about digital world, <br>
     elf-taught, I love to learn, to write and discover new things.<br> </h3>
     
-    <h3>I am a graduated junior webdesigner and I am curently starting a webdev cursus to learn and do even more!</h3>
+    <h3 align="center">I am a graduated junior webdesigner and I am curently starting a webdev cursus to learn and do even more!</h3>
 
 </p>
