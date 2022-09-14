@@ -5,6 +5,6 @@
 <p style="margin: 15px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;coffee+addict;vuejs+for+life">
     <h3 align="center">Passionate about digital world, and self-taught,<br> I love to learn, to write and discover new things.</h3>
-    <h3 align="center">I am a graduated junior webdesigner and I am curently starting a webdev cursus to learn and do even more. 
+    <h3 align="center">I am a graduated junior webdesigner and <br>I am curently starting a webdev cursus to learn and <br>do even more! 
 </h3>
 </p>
