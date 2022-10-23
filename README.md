@@ -1,8 +1,5 @@
 <h1 align="center">Hi I'm Angel</h1>
 
-
-
-
 <!-- Intro -->
 
 <p style="margin: 15px;" align="center">
