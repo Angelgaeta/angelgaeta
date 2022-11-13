@@ -9,7 +9,7 @@
     <h3 align="center">Passionate about digital world, <br>
     self-taught, I love to learn, to write and discover new things.</h3>
     <h3 align="center">I am a graduated junior webdesigner and I am curently starting <br>a webdev cursus to learn and do even more!</h3>
-</p>
+</p><br><br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
