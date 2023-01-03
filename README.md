@@ -11,11 +11,11 @@
     <h3 align="center">I am a graduated junior webdesigner and I am curently starting <br>a webdev cursus to learn and do even more!</h3>
 </p><br>
 
-<h3 align="center"  ><a href="https://devweb.angelgaeta.com/" target="_blank" > < Portfolio /> </a></h3>
+<h3 align="center"  ><a href="https://devweb.angelgaeta.com/" target="blank" > < Portfolio /> </a></h3>
 <br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://codepen.io/angelgaeta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="angelgaeta" height="30" width="40" /></a>
+<a href="https://codepen.io/angelgaeta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="angelgaeta" height="30" width="40" /></a>
 <a href="https://www.behance.net/angel_gaeta_redjdal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="angel_gaeta_redjdal" height="30" width="40" /></a>
 </p>
 
