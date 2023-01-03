@@ -11,7 +11,7 @@
     <h3 align="center">I am a graduated junior webdesigner and I am curently starting <br>a webdev cursus to learn and do even more!</h3>
 </p><br>
 
-<h3 align="center"> <a href="https://devweb.angelgaeta.com/" target="blank">-> Portfolio <-</a></h3>
+<h3 align="center" ><a href="https://devweb.angelgaeta.com/" target="blank" style="text-decotation: underline;">-> Portfolio <-</a></h3>
 <br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
