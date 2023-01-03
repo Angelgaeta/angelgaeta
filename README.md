@@ -12,7 +12,7 @@
 </p><br>
 
 <h3 align="center"> <a href="https://devweb.angelgaeta.com/" target="blank">-> Portfolio <-</a></h3>
-
+<br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/angelgaeta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="angelgaeta" height="30" width="40" /></a>
