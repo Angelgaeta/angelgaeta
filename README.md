@@ -1,6 +1,5 @@
 <h1 align="center"> Hi I'm Angel </h1>
 
-<img src="[https://readme-typing-svg.herokuapp.com?duration=3000&color=EBD41B&center=true&vCenter=true&lines=I+love+to+learn;I+am+webdesigner;and+developer+fullstack;](https://devweb.angelgaeta.com/img/logoAR.jpeg)">
 <p style="margin: 15px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=EBD41B&center=true&vCenter=true&lines=I+love+to+learn;I+am+webdesigner;and+developer+fullstack;">
     <h3 align="center">Passionate about digital world, <br>
