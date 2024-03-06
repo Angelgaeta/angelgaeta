@@ -7,7 +7,7 @@
     <h3 align="center">I am a graduated junior webdesigner and I am curently starting <br>a webdev cursus to learn and do even more!</h3>
 </p>
 
-<h3 align="center"  ><a href="https://devweb.angelgaeta.com/" target="_blank" > Portfolio ⏎ </a></h3>
+[<h3 align="center"  ><a href="https://devweb.angelgaeta.com/" target="_blank" > Portfolio ⏎ </a></h3>](url)
 
 <h3 align="center">Languages and Tools:</h3>
 
